@@ -30,9 +30,9 @@ redirect_from:
 
 1. Cao X., Rong S.*, Liu Y., <ins>**Li T.**</ins>, Wang Q., and He B. **NUICNet: Non-uniform illumination correction for underwater image using fully convolutional network[J]**. <ins>**IEEE Access**</ins>, 2020, 8: 109989-110002, https://doi.org/10.1109/ACCESS.2020.3002593.
 
-1. Guo S., He B., Feng C., Liu H., Yin F., Zhang X., Mu X., <ins>**Li T.**</ins>, and Yan T. **Fault tolerant multi-sensor federated filter for AUV integrated navigation[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734279.
+1. Guo S., He B., Feng C.*, Liu H., Yin F., Zhang X., Mu X., <ins>**Li T.**</ins>, and Yan T. **Fault tolerant multi-sensor federated filter for AUV integrated navigation[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734279.
 
-1. Liu H., He B., Feng C., Guo, S., Yin, F., Zhang, X., Mu X., <ins>**Li T.**</ins>, and Yan, T. **Navigation algorithm based on PSO-BP UKF of autonomous underwater vehicle[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734401.
+1. Liu H., He B., Feng C.*, Guo, S., Yin, F., Zhang, X., Mu X., <ins>**Li T.**</ins>, and Yan, T. **Navigation algorithm based on PSO-BP UKF of autonomous underwater vehicle[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734401.
 
 ### Submitted
 1. <ins>**Li T.***</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to <ins>**Neural Computing & Applications**</ins>)
