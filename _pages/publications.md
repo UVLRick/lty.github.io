@@ -12,11 +12,9 @@ redirect_from:
 
 ## Papers
 
-### Preprint
+### Published
 
-1. **Deep Learning Based Brain Tumor Segmentation: A Survey** [<a href='https://arxiv.org/pdf/2007.09479.pdf'>PDF</a>] <br>
-<ins>**Zhihua Liu**</ins>,Long Chen, Lei Tong, Feixiang Zhou, Zheheng Jiang, Qianni Zhang, Caifeng Shan, Yinhai Wang, Xiangrong Zhang, Ling Li, Huiyu Zhou<br>
-arXiv:2007.09479 <br>
+1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]. Applied Optics, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
 
 1. **CANet: Context Aware Network for 3D Brain Tumor Segmentation** [<a href='https://arxiv.org/pdf/2007.07788.pdf'>PDF</a>] [<a href='https://github.com/ZhihuaLiuEd/canetbrats'>Code</a>]<br>
 <ins>**Zhihua Liu**</ins>,Lei Tong, Long Chen, Feixiang Zhou, Zheheng Jiang, Qianni Zhang, Yinhai Wang, Caifeng Shan, Ling Li, Huiyu Zhou<br>
