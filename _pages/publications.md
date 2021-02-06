@@ -16,19 +16,30 @@ redirect_from:
 
 1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. **Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]**. <ins>**Applied Optics**</ins>, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
 
-1. **CANet: Context Aware Network for 3D Brain Tumor Segmentation** [<a href='https://arxiv.org/pdf/2007.07788.pdf'>PDF</a>] [<a href='https://github.com/ZhihuaLiuEd/canetbrats'>Code</a>]<br>
-<ins>**Zhihua Liu**</ins>,Lei Tong, Long Chen, Feixiang Zhou, Zheheng Jiang, Qianni Zhang, Yinhai Wang, Caifeng Shan, Ling Li, Huiyu Zhou<br>
-arXiv:2007.07788 <br>
+1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. <ins>**Optical Engineering**</ins>, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
 
-1. **Detection and Tracking of Multiple Mice Using Part Proposal Networks** [<a href='https://arxiv.org/pdf/1906.02831.pdf'>PDF</a>] <br>
-Zheheng Jiang, <ins>**Zhihua Liu**</ins>, Long Chen, Lei Tong, Xiangrong Zhang, Xiangyuan Lan, Danny Crookes, Ming-Hsuan Yang, Huiyu Zhou <br>
-arXiv:1906.02831 <br>
+1. <ins>**Li T.***</ins>, Liu L., Song Y., and Lai M. **Impact of temperature characteristics on high-Speed optical communication modules[C]**//CCF National Conference on Computer Engineering and Technology. Springer, Singapore, 2018: 38-47, https://doi.org/10.1007/978-981-13-5919-4_4.
 
-1. **Cost-sensitive Boosting Pruning Trees for depression detection on Twitter** [<a href='https://arxiv.org/pdf/1906.00398.pdf'>PDF</a>] [<a href='https://github.com/BIPL-UoL/Cost-Boosting-Pruning-Trees-for-depression-detection-on-Twitter'>Code</a>]<br>
-Lei Tong, <ins>**Zhihua Liu**</ins>, Zheheng Jiang ,Feixiang Zhou, Long Chen, Jialin Lyu, Xiangrong Zhang, Qianni Zhang, Abdul Sadka, Yinhai Wang, Ling Li, Huiyu Zhou<br>
-arXiv:1906.00398 <br>
+1. Zheng X., Feng C.*, <ins>**Li T.**</ins>, and He B. **Analysis of autonomous underwater vehicle (auv) navigational states based on complex networks[J]**. <ins>**Ocean Engineering**</ins>, 2019, 187: 106141, https://doi.org/10.1016/j.oceaneng.2019.106141.
 
-### Conference
+1. Zhao W., Rong S.*, <ins>**Li T.**</ins>, Cao X., Liu Y., and He B. **Underwater single image enhancement based on latent low-rank decomposition and image fusion[C]**//Twelfth International Conference on Graphics and Image Processing. International Society for Optics and Photonics, 2021, 11720: 1172018, https://doi.org/10.1117/12.2589359.
+
+1. Liu Y., Rong S.*, Cao X., <ins>**Li T.**</ins>, and He B. **Underwater image dehazing using the color space dimensionality reduction prior[C]**//2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020: 1013-1017, https://doi.org/10.1109/ICIP40778.2020.9190901.
+
+1. Liu Y., Rong S.*, Cao X., <ins>**Li T.**</ins>, and He B. **Underwater single image dehazing using the color space dimensionality reduction prior[J]**. <ins>**IEEE Access**</ins>, 2020, 8: 91116-91128, https://doi.org/10.1109/ACCESS.2020.2994614.
+
+1. Cao X., Rong S.*, Liu Y., <ins>**Li T.**</ins>, Wang Q., and He B. **NUICNet: Non-uniform illumination correction for underwater image using fully convolutional network[J]**. <ins>**IEEE Access**</ins>, 2020, 8: 109989-110002, https://doi.org/10.1109/ACCESS.2020.3002593.
+
+1. Guo S., He B., Feng C., Liu H., Yin F., Zhang X., Mu X., <ins>**Li T.**</ins>, and Yan T. **Fault tolerant multi-sensor federated filter for AUV integrated navigation[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734279.
+
+1. Liu H., He B., Feng C., Guo, S., Yin, F., Zhang, X., Mu X., <ins>**Li T.**</ins>, and Yan, T. **Navigation algorithm based on PSO-BP UKF of autonomous underwater vehicle[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734401.
+
+### Submitted
+1. <ins>**Li T.***</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to <ins>**Neural Computing & Applications**</ins>)
+
+1. <ins>**Li T.***</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to <ins>**The 28th IEEE International Conference on Image Processing (IEEE - ICIP)**</ins>)
+
+### Projects
 
 #### 2020
 
