@@ -34,22 +34,18 @@ redirect_from:
 
 1. Liu H., He B., Feng C.*, Guo, S., Yin, F., Zhang, X., Mu X., <ins>**Li T.**</ins>, and Yan, T. **Navigation algorithm based on PSO-BP UKF of autonomous underwater vehicle[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734401.
 
+1. 郑旭, 冯晨*, <ins>**李腾跃**</ins>, 程伦，何波. **基于改进预处理算法的复杂网络构建与分析[J]**. 中国海洋大学学报 (自然科学版), 2020, 50(7): 143-152, https://doi.org/10.16441/j.cnki.hdxb.20190017.
+
 ### Submitted
 1. <ins>**Li T.***</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to <ins>**Neural Computing & Applications**</ins>)
 
 1. <ins>**Li T.***</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to <ins>**The 28th IEEE International Conference on Image Processing (IEEE - ICIP)**</ins>)
 
-### Projects
-
-#### 2020
+## Projects
 
 1. **Underwater object detection using Invert Multi-Class Adaboost with deep learning** [<a href='https://arxiv.org/pdf/2005.11552.pdf'>PDF</a>] [<a href='https://github.com/LongChenCV/SWIPENet'>Code</a>]<br>
 Long Chen, <ins>**Zhihua Liu**</ins>, Lei Tong, Zheheng Jiang, Shengke Wang, Junyu Dong, Huiyu Zhou<br>
 **IJCNN'20**: Proceedings of the 2020 International Joint Conference on Neural Networks.<br>
-
-### Journal
-
-#### 2020
 
 1. **Perceptual underwater image enhancement with deep learning and physical priors** [<a href='https://arxiv.org/pdf/2008.09697.pdf'>PDF</a>] [<a href='https://github.com/LongChenCV/HybridDetectionGAN'>Code</a>]<br>
 Long Chen, Zheheng Jiang, Lei Tong, <ins>**Zhihua Liu**</ins>, Aite Zhao, Qianni Zhang, Junyu Dong, Huiyu Zhou<br>
