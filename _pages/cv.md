@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng. in Electrical Information Science and Technology, Ocean University of China, 2013
 * M.Sc. in Optical Engineering, Ocean University of China, 2015
-* Ph.D in Computer Science, Ocean University of China, 2017-2022 (expected)
+* Ph.D in Intelligent Information and Communication System, Ocean University of China, 2017-2022 (expected)
 * Joint Ph.D in Computer Science, University of Leicester, 2021-2022
 
 Work experience
