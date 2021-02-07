@@ -26,9 +26,9 @@ redirect_from:
 
 1. Liu Y., Rong S.*, Cao X., <ins>**Li T.**</ins>, and He B. **Underwater image dehazing using the color space dimensionality reduction prior[C]**//2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020: 1013-1017, https://doi.org/10.1109/ICIP40778.2020.9190901.
 
-1. Liu Y., Rong S.*, Cao X., <ins>**Li T.**</ins>, and He B. **Underwater single image dehazing using the color space dimensionality reduction prior[J]**. *IEEE Access*, 2020, 8: 91116-91128, https://doi.org/10.1109/ACCESS.2020.2994614.
+1. Liu Y., Rong S._*_, Cao X., <ins>**Li T.**</ins>, and He B. **Underwater single image dehazing using the color space dimensionality reduction prior[J]**. *IEEE Access*, 2020, 8: 91116-91128, https://doi.org/10.1109/ACCESS.2020.2994614.
 
-1. Cao X., Rong S.*, Liu Y., <ins>**Li T.**</ins>, Wang Q., and He B. **NUICNet: Non-uniform illumination correction for underwater image using fully convolutional network[J]**. *IEEE Access*, 2020, 8: 109989-110002, https://doi.org/10.1109/ACCESS.2020.3002593.
+1. Cao X., Rong S._*_, Liu Y., <ins>**Li T.**</ins>, Wang Q., and He B. **NUICNet: Non-uniform illumination correction for underwater image using fully convolutional network[J]**. *IEEE Access*, 2020, 8: 109989-110002, https://doi.org/10.1109/ACCESS.2020.3002593.
 
 1. Guo S., He B., Feng C.*, Liu H., Yin F., Zhang X., Mu X., <ins>**Li T.**</ins>, and Yan T. **Fault tolerant multi-sensor federated filter for AUV integrated navigation[C]**//2019 IEEE Underwater Technology (UT). IEEE, 2019: 1-4, https://doi.org/10.1109/UT.2019.8734279.
 
