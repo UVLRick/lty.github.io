@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Internet of Things, University of Science and Technology Beijing, 2015
-* M.Sc. in Artificial Intelligence, The University of Edinburgh, 2016
-* Ph.D in Computer Science, University of Leicester, 2018-2023 (expected)
+* B.Eng. in Electrical Information Science and Technology, Ocean University of China, 2013
+* M.Sc. in Optical Engineering, Ocean University of China, 2015
+* Ph.D in Computer Science, Ocean University of China, 2017-2022 (expected)
+* Joint Ph.D in Computer Science, University of Leicester, 2021-2022
 
 Work experience
 ======
-* 2016-2018: Algorithm Engineer
-  * JD Logistics, JD.com
+* 2015-2017: Hardware Engineer
+  * Hisense
 
-* 2020 Summer: Research Assistant
-  * University of Leicester & Astrosat
 
   
 Skills
 ======
 * Programming Language
-  * Python, C/C++, CUDA, MATLAB, JAVA, SQL
+  * Python, C/C++, CUDA, MATLAB
 * Frameworks
   * PyTorch, Tensorflow/Keras, OpenCV, Point Cloud Library, Git
 * Language
