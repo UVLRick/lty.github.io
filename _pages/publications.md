@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications and Projects"
+title: "Publications and Researches"
 author_profile: true
 redirect_from: 
   - /publications.html
@@ -41,12 +41,10 @@ redirect_from:
 
 1. <ins>**Li T.**</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to The 28th IEEE International Conference on Image Processing (IEEE - ICIP))
 
-## Projects
+## Patents
 
-1. **Underwater object detection using Invert Multi-Class Adaboost with deep learning** [<a href='https://arxiv.org/pdf/2005.11552.pdf'>PDF</a>] [<a href='https://github.com/LongChenCV/SWIPENet'>Code</a>]<br>
-Long Chen, <ins>**Zhihua Liu**</ins>, Lei Tong, Zheheng Jiang, Shengke Wang, Junyu Dong, Huiyu Zhou<br>
-**IJCNN'20**: Proceedings of the 2020 International Joint Conference on Neural Networks.<br>
+1. He B., Li T., Feng C., Wang Y., Liu Q., Cheng L. An underwater Binocular protection device equipped with an optical lighting system，CN209297079U ().
 
-1. **Perceptual underwater image enhancement with deep learning and physical priors** [<a href='https://arxiv.org/pdf/2008.09697.pdf'>PDF</a>] [<a href='https://github.com/LongChenCV/HybridDetectionGAN'>Code</a>]<br>
-Long Chen, Zheheng Jiang, Lei Tong, <ins>**Zhihua Liu**</ins>, Aite Zhao, Qianni Zhang, Junyu Dong, Huiyu Zhou<br>
-**T-CSVT**: IEEE Transactions on Circuits and Systems for Video Technology.<br>
+## Research Grants
+
+1. "Research on typical underwater object recognition based on optical vision system in an AUV platform", the Fundamental Research Funds for the Central Universities in China, 2018.09-2020.09, 30, 000 RMB.
