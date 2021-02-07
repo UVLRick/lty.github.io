@@ -43,7 +43,7 @@ redirect_from:
 
 ## Patents
 
-1. He B., Li T., Feng C., Wang Y., Liu Q., Cheng L. An underwater Binocular protection device equipped with an optical lighting system，CN209297079U ().
+1. He B., Li T., Feng C., Wang Y., Liu Q., Cheng L. An underwater Binocular protection device equipped with an optical lighting system，CN209297079U (Chinese patent).
 
 ## Research Grants
 
