@@ -20,7 +20,7 @@ redirect_from:
 
 1. <ins>**Li T.***</ins>, Liu L., Song Y., and Lai M. **Impact of temperature characteristics on high-Speed optical communication modules[C]**//CCF National Conference on Computer Engineering and Technology. Springer, Singapore, 2018: 38-47, https://doi.org/10.1007/978-981-13-5919-4_4.
 
-1. Zheng X., [Feng C.*], <ins>**Li T.**</ins>, and He B. **Analysis of autonomous underwater vehicle (auv) navigational states based on complex networks[J]**. *Ocean Engineering*, 2019, 187: 106141, https://doi.org/10.1016/j.oceaneng.2019.106141.
+1. Zheng X., <Feng C.*>, <ins>**Li T.**</ins>, and He B. **Analysis of autonomous underwater vehicle (auv) navigational states based on complex networks[J]**. *Ocean Engineering*, 2019, 187: 106141, https://doi.org/10.1016/j.oceaneng.2019.106141.
 
 1. Zhao W., Rong S.*, <ins>**Li T.**</ins>, Cao X., Liu Y., and He B. **Underwater single image enhancement based on latent low-rank decomposition and image fusion[C]**//Twelfth International Conference on Graphics and Image Processing. International Society for Optics and Photonics, 2021, 11720: 1172018, https://doi.org/10.1117/12.2589359.
 
