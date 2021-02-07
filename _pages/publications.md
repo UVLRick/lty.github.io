@@ -47,4 +47,4 @@ redirect_from:
 
 ## Research Grants
 
-1. "Research on typical underwater object recognition based on optical vision system in an AUV platform", the Fundamental Research Funds for the Central Universities in China, 2018.09-2020.09, 30, 000 RMB.
+1. "Research on typical underwater object recognition based on optical vision system in an AUV platform", the Fundamental Research Funds for the Central Universities in China (No. 201861009), 2018.09-2020.09, 30, 000 RMB.
