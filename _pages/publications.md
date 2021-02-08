@@ -14,7 +14,7 @@ redirect_from:
 
 ### Published
 
-1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. **Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]**. *Applied Optics*, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
+1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. **Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]**. _Applied Optics_, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
 
 1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. *Optical Engineering*, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
 
