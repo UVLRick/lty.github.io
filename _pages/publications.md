@@ -16,7 +16,7 @@ redirect_from:
 
 1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. **Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]**. _Applied Optics_, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
 
-1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. *Optical Engineering*, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
+1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. _Optical Engineering_, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
 
 1. <ins>**Li T.***</ins>, Liu L., Song Y., and Lai M. **Impact of temperature characteristics on high-Speed optical communication modules[C]**//CCF National Conference on Computer Engineering and Technology. Springer, Singapore, 2018: 38-47, https://doi.org/10.1007/978-981-13-5919-4_4.
 
@@ -43,7 +43,7 @@ redirect_from:
 
 ## Patents
 
-1. He B., Li T., Feng C., Wang Y., Liu Q., Cheng L. **An underwater Binocular protection device equipped with an optical lighting system**，CN209297079U (Chinese patent).
+1. He B., <ins>**Li T.**</ins>, Feng C., Wang Y., Liu Q., Cheng L. **An underwater Binocular protection device equipped with an optical lighting system**，CN209297079U (Chinese patent).
 
 ## Research Grants
 
