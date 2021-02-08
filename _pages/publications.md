@@ -37,9 +37,9 @@ redirect_from:
 1. 郑旭, 冯晨*, <ins>**李腾跃**</ins>, 程伦，何波. **基于改进预处理算法的复杂网络构建与分析[J]**. 中国海洋大学学报 (自然科学版), 2020, 50(7): 143-152, https://doi.org/10.16441/j.cnki.hdxb.20190017.
 
 ### Submitted
-1. <ins>**Li T.**</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to Neural Computing & Applications)
+1. <ins>**Li T.**</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to _Neural Computing & Applications_)
 
-1. <ins>**Li T.**</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to The 28th IEEE International Conference on Image Processing (IEEE - ICIP))
+1. <ins>**Li T.**</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to _The 28th IEEE International Conference on Image Processing (IEEE - ICIP)_)
 
 ## Patents
 
