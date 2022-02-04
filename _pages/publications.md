@@ -14,6 +14,8 @@ redirect_from:
 
 ### Published
 
+1. <ins>**Li T.**</ins>, Rong S.*, Zhao W., Chen L., Liu Y., Zhou H., and He B. **Underwater image enhancement using adaptive color restoration and dehazing[J]**. _Optics Express_, 2022 (Accepted for publication).
+
 1. <ins>**Li T.**</ins>, Yang Q., Rong S.*, Chen L., and He B. **Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network[J]**. _Applied Optics_, 2020, 59(32): 10049-10060, https://doi.org/10.1364/AO.402024.
 
 1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. _Optical Engineering_, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
