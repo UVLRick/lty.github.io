@@ -20,7 +20,9 @@ redirect_from:
 
 1. <ins>**Li T.**</ins>, Rong S.*, Cao X., Liu Y., Chen L., and He B. **Underwater image enhancement framework and its application on an autonomous underwater vehicle platform[J]**. _Optical Engineering_, 2020, 59(8): 083102, https://doi.org/10.1117/1.OE.59.8.083102.
 
-1. <ins>**Li T.***</ins>, Liu L., Song Y., and Lai M. **Impact of temperature characteristics on high-Speed optical communication modules[C]**//CCF National Conference on Computer Engineering and Technology. Springer, Singapore, 2018: 38-47, https://doi.org/10.1007/978-981-13-5919-4_4.
+1. <ins>**Li T.**</ins>, Chen L., Rong S.*, and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. in Proceedings of The IEEE Conference on Oceans 2022 (Accepted for publication).
+
+1. <ins>**Li T.***</ins>, Liu L., Song Y., and Lai M. **Impact of temperature characteristics on high-Speed optical communication modules[C]**. in Proceedings of The CCF National Conference on Computer Engineering and Technology. Springer, Singapore, 2018: 38-47, https://doi.org/10.1007/978-981-13-5919-4_4.
 
 1. Zheng X., Feng C._*_, <ins>**Li T.**</ins>, and He B. **Analysis of autonomous underwater vehicle (auv) navigational states based on complex networks[J]**. *Ocean Engineering*, 2019, 187: 106141, https://doi.org/10.1016/j.oceaneng.2019.106141.
 
@@ -39,13 +41,15 @@ redirect_from:
 1. Zheng X., Feng C._*_, <ins>**Li T.**</ins>, Cheng L., He B. **Construction and analysis of complex network based on Pro-DPCA preprocessing algorithm[J]**. _Periodical of Ocean University of China_, 2020, 50(7): 143-152, https://doi.org/10.16441/j.cnki.hdxb.20190017.
 
 ### Submitted
-1. <ins>**Li T.**</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to _Neural Computing & Applications_)
+1. <ins>**Li T.**</ins>, Rong S.*, Yang Q, Chen L., and He B. **Removing the motion blur for an autonomous underwater vehicle using a feature pyramid attention network[J]**. (submit to _Journal of Oceanic Engineering_)
 
-1. <ins>**Li T.**</ins>, Rong S.*, Chen L., and He B. **Underwater image deblurring framework using a generative adversarial network[C]**. (submit to _The 28th IEEE International Conference on Image Processing (IEEE - ICIP)_)
+
 
 ## Patents
 
 1. He B., <ins>**Li T.**</ins>, Feng C., Wang Y., Liu Q., Cheng L. **An underwater Binocular protection device equipped with an optical lighting system**，CN209297079U (Chinese patent).
+
+1. <ins>**Li T.**</ins>, He P., Jiang J., and Sha Q. **High power underwater light sources for deep sea environments**，CN211649891U (Chinese patent).
 
 ## Research Grants
 
